@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventory1</string>
+    <string name="product_table_contains">The product table contains</string>
+    <string name="product">products</string>
+</resources>
